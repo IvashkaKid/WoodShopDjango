@@ -4,7 +4,7 @@ Definition of forms.
 
 from cProfile import label
 from dataclasses import fields
-from tkinter import Label, Widget
+#from tkinter import Label, Widget
 from urllib import request
 from xml.dom.minidom import Attr
 from django import forms
